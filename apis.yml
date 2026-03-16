@@ -5,15 +5,16 @@ description: >-
   directly associated with betting. Betting odds integration provides users with
   live odds using exclusive mathematical models along with fixtures of different
   matches of different sports events. A betting odds API enables users to get
-  live betting live market odds on other sports betting exchanges. 
+  live betting live market odds on other sports betting exchanges.
 type: Index
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - API
+  - Sports Betting
+  - Odds
 created: '2025-02-08'
-modified: '2025-02-08'
+modified: '2026-03-16'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/gammastack/refs/heads/main/apis.yml
 specificationVersion: '0.19'
@@ -26,13 +27,17 @@ apis:
       with live odds using exclusive mathematical models along with fixtures of
       different matches of different sports events. A betting odds API enables
       users to get live betting live market odds on other sports betting
-      exchanges. 
-    humanURL: ' https://www.gammastack.com/sports-betting-3rd-party-api-integrations/'
+      exchanges.
+    humanURL: https://www.gammastack.com/sports-betting-3rd-party-api-integrations/
     tags:
-      - API
+      - Sports Betting
+      - Odds
     properties:
       - type: Documentation
-        url: ' https://www.gammastack.com/sports-betting-3rd-party-api-integrations/'
+        url: https://www.gammastack.com/sports-betting-3rd-party-api-integrations/
+common:
+  - type: Website
+    url: https://www.gammastack.com/
 maintainers:
   - FN: Kin Lane
-    email: info@apievangelist.com
+    email: kin@apievangelist.com
