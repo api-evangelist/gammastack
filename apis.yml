@@ -11,8 +11,8 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Sports Betting
   - Odds
+  - Sports Betting
 created: '2025-02-08'
 modified: '2026-03-16'
 url: >-
@@ -30,8 +30,8 @@ apis:
       exchanges.
     humanURL: https://www.gammastack.com/sports-betting-3rd-party-api-integrations/
     tags:
-      - Sports Betting
       - Odds
+      - Sports Betting
     properties:
       - type: Documentation
         url: https://www.gammastack.com/sports-betting-3rd-party-api-integrations/
