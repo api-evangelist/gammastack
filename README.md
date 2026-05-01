@@ -1,38 +1,31 @@
 # Gammastack (gammastack)
-For any sports betting website, betting odds play a major role as it is directly associated with betting. Betting odds integration provides users with live odds using exclusive mathematical models along with fixtures of different matches of different sports events. A betting odds API enables users to get live betting live market odds on other sports betting exchanges.
+
+GammaStack is a sports betting and iGaming software provider that integrates third-party APIs (betting odds, fixtures, payments, KYC) into customer-facing sportsbook platforms. GammaStack does not publish its own public API; this repository tracks the company and the categories of APIs it integrates.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/gammastack/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Index
+- **Position:** Consuming
+- **Access:** 3rd-Party
 
-## Tags:
+## Tags
 
- - Sports Betting, Odds
+- Odds, Sports Betting, iGaming, Sportsbook
 
 ## Timestamps
 
-- **Created:** 2025-02-08 
-- **Modified:** 2026-03-16 
+- **Created:** 2025-02-08
+- **Modified:** 2026-04-28
 
 ## APIs
 
-### Gammastack
-For any sports betting website, betting odds play a major role as it is directly associated with betting. Betting odds integration provides users with live odds using exclusive mathematical models along with fixtures of different matches of different sports events. A betting odds API enables users to get live betting live market odds on other sports betting exchanges.
+### GammaStack Sports Betting API Integrations
+Reference page describing the third-party API integrations GammaStack provides for sports betting platforms, including betting odds, live market data, and sport fixtures.
 
-**Human URL:** [https://www.gammastack.com/sports-betting-3rd-party-api-integrations/](https://www.gammastack.com/sports-betting-3rd-party-api-integrations/)
-
-
-#### Tags:
-
- - Sports Betting, Odds
-
-#### Properties
-
-- [Documentation](https://www.gammastack.com/sports-betting-3rd-party-api-integrations/)
+- **Human URL:** https://www.gammastack.com/sports-betting-3rd-party-api-integrations/
+- **Tags:** Odds, Sports Betting
 
 ## Common Properties
 
