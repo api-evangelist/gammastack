@@ -34,10 +34,14 @@ apis:
       - type: Documentation
         url: https://www.gammastack.com/sports-betting-3rd-party-api-integrations/
 common:
+  - type: DomainSecurity
+    url: security/gammastack-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/gammastack
   - type: Website
     url: https://www.gammastack.com/
+  - url: https://www.gammastack.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
