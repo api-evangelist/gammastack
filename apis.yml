@@ -30,7 +30,7 @@ created: '2025-02-08'
 modified: '2026-07-25'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/gammastack/refs/heads/main/apis.yml
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: gammastack:integrations
     name: GammaStack Sports Betting API Integrations
