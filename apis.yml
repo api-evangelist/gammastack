@@ -57,6 +57,12 @@ apis:
       - type: Documentation
         url: https://www.gammastack.com/sports-betting-3rd-party-api-integrations/
 common:
+  - type: Plans
+    url: plans/gammastack-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/gammastack-rate-limits.yml
+  - type: FinOps
+    url: finops/gammastack-finops.yml
   - type: DomainSecurity
     url: security/gammastack-domain-security.yml
   - type: LinkedIn
