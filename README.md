@@ -1,4 +1,4 @@
-# Gammastack (gammastack)
+# Gammastack
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,32 +66,100 @@
 
 GammaStack is a sports betting and iGaming software provider that integrates third-party APIs (betting odds, fixtures, payments, KYC) into customer-facing sportsbook platforms. GammaStack does not publish its own public API; this repository tracks the company and the categories of APIs it integrates.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/gammastack/refs/heads/main/apis.yml)
+**Areas:** Odds · Sports Betting · iGaming · Sportsbook
 
-## Scope
+## Gammastack on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Gammastack is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gammastack/](https://apis.io/providers/gammastack/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (1)
 
-- Odds, Sports Betting, iGaming, Sportsbook
+- [GammaStack Sports Betting API Integrations](https://apis.io/apis/gammastack/integrations/) — Reference page describing the third-party API integrations GammaStack provides for sports betting platforms, including betting odds, live market data, and…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2025-02-08
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
+Authentication, trust centre, and vulnerability disclosure.
 
-## Common Properties
+- [Gammastack Domain Security](https://apis.io/security/gammastack/gammastack-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Gammastack Plans Pricing](https://apis.io/plans/gammastack/gammastack-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Gammastack Rate Limits](https://apis.io/rate-limits/gammastack/gammastack-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Gammastack Finops](https://apis.io/finops/gammastack/gammastack-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.gammastack.com/)
+- [Blog](https://www.gammastack.com/feed/)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 8.4** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/gammastack/](https://apis.io/providers/gammastack/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Gammastack: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/gammastack/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
